@@ -1,7 +1,7 @@
 # 🦷 GOCRICIT
 
 **Comprehensive Analysis of Object Detection and Image Segmentation on Dental X-ray Images Using YOLOv8 and Deep Learning Models**  
-*Author: Karthik Ragulan | Date: April 14, 2025*
+*Author: Vedant Gaikwad | Date: April 14, 2025*
 
 ---
 
